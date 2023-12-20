@@ -1,0 +1,26 @@
+"Combined Cycle Power Plant Data Set" that can be downloaded by the following link.
+https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant
+
+that's a classic data set from actually the UCI machinery repository which I encourage you to have a look because indeed there is a website that contains a lot of data sets on which you can practice.
+
+And this one is actually called Combined Cycle Power Plant.
+
+And it consists of trying to predict this dependent variable which is actually an energy output and you don't have to understand how energy works or how the physics of this data set works.
+
+The only thing that you need to understand is that we want to predict this dependent variable which turns out to be an energy output.
+
+And we are predicting this dependent variable with these four features here.
+
+Which are first, the Amgen temperature,
+
+second the exhaust vacuum,
+
+third the ambient pressure
+
+and fourth, the relative humidity.
+
+
+
+If you have a dataset like that which has no missing data and no categorical data, while you can deploy each and every single one of these regression models by just having to change the name of your data set. And if your data set has missing data or categorical data
+
+
